@@ -1,0 +1,2 @@
+# EnchantedGamemode
+/gamemode for ERPE
